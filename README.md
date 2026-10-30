@@ -93,7 +93,7 @@ Connectivity was verified using the `ping` command from the Packet Tracer PCs.
 
 ### 2. VLAN Configuration
 
-![VLAN Configuration](screenshots/vlan-configuration.png)
+![VLAN Configuration](https://github.com/ThirunagariNavadeep/Network-Security-Lab/blob/07f93807e97d6b112790adb89320f44b064dcb57/Screenshots/Vlan_Configuration.png)
 
 ### 3. Router Interfaces
 
