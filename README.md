@@ -89,7 +89,7 @@ Connectivity was verified using the `ping` command from the Packet Tracer PCs.
 
 ### 1. Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](https://github.com/ThirunagariNavadeep/Network-Security-Lab/blob/8cbedf298e93b18ac68688702a76bc9be973997e/Screenshots/Topology.png)
 
 ### 2. VLAN Configuration
 
