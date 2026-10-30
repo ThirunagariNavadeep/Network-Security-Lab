@@ -97,11 +97,11 @@ Connectivity was verified using the `ping` command from the Packet Tracer PCs.
 
 ### 3. Router Interfaces
 
-![Router Interfaces](screenshots/router-interfaces.png)
+![Router Interfaces](screenshots/router-interfaces.pn)
 
 ### 4. Guest-to-Admin Access Blocked
 
-![Guest Blocked](screenshots/guest-blocked.png)
+![Guest Blocked](https://github.com/ThirunagariNavadeep/Network-Security-Lab/blob/f95b355c60563720ed7c385dadcf92006347efda/Screenshots/guest-blocked.png)
 
 ### 5. Guest-to-Employee Access Allowed
 
