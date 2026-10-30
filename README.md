@@ -105,7 +105,7 @@ Connectivity was verified using the `ping` command from the Packet Tracer PCs.
 
 ### 5. Guest-to-Employee Access Allowed
 
-![Guest Employee Allowed](screenshots/guest-employee-allowed.png)
+![Guest Employee Allowed](https://github.com/ThirunagariNavadeep/Network-Security-Lab/blob/46589696b5e00d09dcb0749203afa9451765ccfb/Screenshots/guest-employee-allowed.png)
 
 ## Technologies Used
 
