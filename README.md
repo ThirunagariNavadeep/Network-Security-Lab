@@ -97,7 +97,7 @@ Connectivity was verified using the `ping` command from the Packet Tracer PCs.
 
 ### 3. Router Interfaces
 
-![Router Interfaces](screenshots/router-interfaces.pn)
+![Router Interfaces](https://github.com/ThirunagariNavadeep/Network-Security-Lab/blob/91cb45f7783e2880e5bf2d1b8c38ecee0f53b416/Screenshots/router-interfaces.png)
 
 ### 4. Guest-to-Admin Access Blocked
 
